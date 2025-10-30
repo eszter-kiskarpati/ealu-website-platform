@@ -4,7 +4,7 @@ about: Template for defining new features or tasks
 title: 'User Story: O'
 labels: 'user story'
 assignees: 'eszter-kiskarpati'
-
+projects: ["eszter-kiskarpati/ealu-website-platform"]
 ---
 
 As a **O** 

@@ -4,6 +4,7 @@ about: General development or design task
 title: "Task: O"
 labels: task
 assignees: eszter-kiskarpati
+projects: ["eszter-kiskarpati/ealu-website-platform"]
 ---
 
 ### Description
