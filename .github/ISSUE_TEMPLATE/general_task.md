@@ -9,9 +9,9 @@ assignees: eszter-kiskarpati
 ### Description
 
 
-### ✅ To Do
+### To Do:
 -  
 -  
 -  
 
-### Related Issues
+### Related Issues:
